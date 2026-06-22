@@ -1,6 +1,9 @@
 # Spam Filtering
 ## Spam Message Classification
 
+Links to other projects: https://github.com/9more/Sentiment-Analysis-Amazon-Review-Data-/tree/main
+
+
 ## Overview
 
 This project develops a machine learning pipeline to classify text messages as **Spam** or **Not Spam**. The solution uses natural language processing (NLP) techniques to clean and transform text data before training and evaluating multiple classification models.
