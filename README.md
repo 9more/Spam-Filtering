@@ -2,10 +2,9 @@
 ## Spam Message Classification
 
 Links to other projects: 
-* https://github.com/9more/Sentiment-Analysis-Amazon-Review-Data-/tree/main 
-* https://github.com/9more/Diabetes-Detection- 
-* https://github.com/9more/test_repo
-
+*[Sentiment Analysis]( https://github.com/9more/Sentiment-Analysis-Amazon-Review-Data-/tree/main )
+* [Diabetes Detector](https://github.com/9more/Diabetes-Detection- )
+* [Repo](https://github.com/9more/test_repo)
 
 ## Overview
 
